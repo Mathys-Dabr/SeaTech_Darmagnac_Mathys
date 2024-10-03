@@ -4,12 +4,17 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/main.c</file>
-            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/ChipConfig.c</file>
-            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/ChipConfig.h</file>
             <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/IO.c</file>
-            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/IO.h</file>
             <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/timer.c</file>
             <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/timer.h</file>
+            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/ChipConfig.h</file>
+            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/ChipConfig.c</file>
+            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/Robot.h</file>
+            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/Robot.c</file>
+            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/Toolbox.c</file>
+            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/Toolbox.h</file>
+            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/PWM.c</file>
+            <file>file:/C:/Github/SeaTech_Darmagnac_Mathys/Embedded/Robot_Darmagnac_Mathys.X/PWM.h</file>
         </group>
     </open-files>
 </project-private>

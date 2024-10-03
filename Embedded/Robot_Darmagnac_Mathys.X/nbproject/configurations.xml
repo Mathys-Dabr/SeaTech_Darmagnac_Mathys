@@ -19,6 +19,12 @@
       <itemPath>IO.h</itemPath>
       <itemPath>timer.c</itemPath>
       <itemPath>timer.h</itemPath>
+      <itemPath>Robot.h</itemPath>
+      <itemPath>Robot.c</itemPath>
+      <itemPath>Toolbox.c</itemPath>
+      <itemPath>Toolbox.h</itemPath>
+      <itemPath>PWM.c</itemPath>
+      <itemPath>PWM.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
@@ -26,6 +32,9 @@
       <itemPath>Makefile</itemPath>
     </logicalFolder>
   </logicalFolder>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
     <conf name="default" type="2">
